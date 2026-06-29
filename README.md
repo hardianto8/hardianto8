@@ -1,69 +1,76 @@
 ![Hardianto](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-<h1>Hi 👋, I'm Hardianto</h1>
-<h3>Full Stack Engineer</h3>
+# Hardianto | Full Stack Engineer
 
-I build scalable web applications and optimize system architecture from frontend interfaces to backend APIs. My focus is on writing maintainable code, reducing system latency, and delivering secure data pipelines.
+Focused on engineering high-availability systems and optimizing distributed architectures. My expertise lies in bridging the gap between complex backend logic and performant frontend interfaces, with a specific emphasis on system reliability and data integrity.
 
----
-
-## 🛠️ Core Capabilities
-
-* **System Architecture**: Designing decoupled systems using both monolithic and microservices patterns.
-* **API Development**: Engineering secure, high-throughput RESTful and GraphQL endpoints.
-* **Database Optimization**: Structuring relational and non-relational data models for fast query performance.
-* **Cloud Infrastructure**: Deploying and monitoring applications using AWS and Google Cloud Platform.
+[Portfolio](https://hardianto.tech) • [LinkedIn](https://linkedin.com/in/hardianto8) • [Email](mailto:hrdianto8@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+### 🎯 Technical Focus
 
-### Backend Ecosystem
+- **Scalable Architecture**: Designing and migrating services from monolithic structures to Microservices using Go and Java.
+- **Performance Engineering**: Optimizing database query execution and implementing multi-layer caching strategies (Redis) to reduce latency.
+- **Data Engineering**: Building secure, high-throughput pipelines with Apache Kafka and RabbitMQ for real-time processing.
+- **Cloud Governance**: Automating deployment workflows via CI/CD pipelines and managing containerized environments with Docker and AWS.
+
+---
+
+### 🛠️ Core Competencies
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | Go, Node.js (Express), PHP (Laravel), Java (Spring Boot), Python (FastAPI/Django) |
+| **Frontend & Mobile** | React, Next.js, TypeScript, Angular, Flutter |
+| **Data & Persistence** | PostgreSQL, MySQL, Oracle (PL/SQL), MongoDB, Redis |
+| **Cloud & Infrastructure** | AWS (EC2, S3, ECS), GCP, Docker, NGINX, Linux, GitHub Actions |
+| **Messaging & API** | Apache Kafka, RabbitMQ, RESTful API, GraphQL, Swagger/OpenAPI |
+
+---
+
+### 🚀 Technical Arsenal
+
+#### Backend Ecosystem
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Laravel](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Frontend & APIs
+#### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![REST](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+#### Infrastructure & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
-## 📈 GitHub Metrics
+### 📈 Development Impact
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)
-
----
-
-## 🎯 Technical Focus & Upskilling
-
-* **Systems Programming**: Exploring Rust to build memory-safe, low-latency infrastructure components.
-* **Distributed Systems**: Implementing advanced caching mechanisms and message brokers (e.g., Redis, Kafka).
-* **CI/CD Automation**: Streamlining deployment pipelines to reduce production release overhead.
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hardianto8&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hardianto8&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌐 Contact & Portfolio
+### 🧠 Current Initiatives
 
-📧 **Email**: hrdianto8@gmail.com  
-🌐 **Portfolio**: [hardianto.tech](https://hardianto.tech)  
+*   **Systems Programming**: Implementing memory-efficient services using Rust for low-latency requirements.
+*   **DevOps Maturity**: Enhancing infrastructure-as-code (IaC) patterns to streamline multi-cloud deployments.
+*   **API Standardization**: Advocating for strict OpenAPI/Swagger documentation to improve cross-functional collaboration.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardianto8)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hardianto88__)
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardianto8)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hardianto88__)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrdianto8@gmail.com)
