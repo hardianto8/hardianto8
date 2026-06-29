@@ -63,7 +63,7 @@ I build scalable web applications and optimize system architecture from frontend
 ## 🌐 Contact & Portfolio
 
 📧 **Email**: hrdianto8@gmail.com  
-🌐 **Portfolio**: [hardianto.tecj](https://hardianto.tech)  
+🌐 **Portfolio**: [hardianto.tech](https://hardianto.tech)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardianto8)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hardianto88__)
