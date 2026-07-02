@@ -52,15 +52,6 @@ Focused on engineering high-availability systems and optimizing distributed arch
 
 ---
 
-### 📈 Development Impact
-
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mallexibra-dev&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mallexibra-dev&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 🧠 Current Initiatives
 
 *   **Systems Programming**: Implementing memory-efficient services using Rust for low-latency requirements.
