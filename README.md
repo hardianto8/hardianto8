@@ -4,7 +4,7 @@
 
 Focused on engineering high-availability systems and optimizing distributed architectures. My expertise lies in bridging the gap between complex backend logic and performant frontend interfaces, with a specific emphasis on system reliability and data integrity.
 
-[Portfolio](https://hardianto.tech) • [LinkedIn](https://linkedin.com/in/hardianto8) • [Email](mailto:hrdianto8@gmail.com)
+[Portfolio](https://hardianto.tech) • [LinkedIn](https://linkedin.com/in/hardianto77) • [Email](mailto:hrdianto8@gmail.com)
 
 ---
 
@@ -55,8 +55,8 @@ Focused on engineering high-availability systems and optimizing distributed arch
 ### 📈 Development Impact
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hardianto8&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hardianto8&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mallexibra-dev&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mallexibra-dev&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
@@ -71,6 +71,6 @@ Focused on engineering high-availability systems and optimizing distributed arch
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardianto8)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hardianto88__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardianto77)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hardianto77__)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrdianto8@gmail.com)
